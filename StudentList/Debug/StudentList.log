@@ -1,0 +1,10 @@
+﻿  Main.c
+E:\CProgramming\FromDesignToCTwo\StudentList\Main.c(25,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+E:\CProgramming\FromDesignToCTwo\StudentList\Main.c(25,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'char **'
+E:\CProgramming\FromDesignToCTwo\StudentList\Main.c(25,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'char **'
+E:\CProgramming\FromDesignToCTwo\StudentList\Main.c(26,33): warning C4047: 'function': 'student_p' differs in levels of indirection from 'Student **'
+E:\CProgramming\FromDesignToCTwo\StudentList\Main.c(26,33): warning C4024: 'printStudentInfo': different types for formal and actual parameter 2
+E:\CProgramming\FromDesignToCTwo\StudentList\Main.c(27,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+E:\CProgramming\FromDesignToCTwo\StudentList\Main.c(27,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'char **'
+E:\CProgramming\FromDesignToCTwo\StudentList\Main.c(27,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'char **'
+  StudentList.vcxproj -> E:\CProgramming\FromDesignToCTwo\StudentList\Debug\StudentList.exe

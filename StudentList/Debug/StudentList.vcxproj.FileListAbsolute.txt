@@ -1,0 +1,2 @@
+E:\CProgramming\FromDesignToCTwo\StudentList\Debug\StudentList.exe
+E:\CProgramming\FromDesignToCTwo\StudentList\Debug\StudentList.pdb
